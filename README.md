@@ -1,2 +1,2 @@
 # image_classification
-Artificial Neural Network that recognizes objects
+Artificial Neural Network for object detection.
