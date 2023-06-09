@@ -2,7 +2,7 @@ This project is a deep learning image classifier implemented using TensorFlow an
 
 ## Image Classification with Custom CNN
 
-The first file (`DeepLearning.py`) demonstrates image classification using a custom convolutional neural network (CNN) architecture. It follows the following steps:
+DeepLearning.py demonstrates image classification using a custom convolutional neural network (CNN) architecture. It follows the following steps:
 
 1. Imports the necessary libraries, including Pandas, NumPy, Matplotlib, and PIL.
 
@@ -20,9 +20,9 @@ The first file (`DeepLearning.py`) demonstrates image classification using a cus
 
 8. Provides the option to make predictions on new, unseen images and save the trained model.
 
-## File 2: Image Classification with Transfer Learning
+## Image Classification with Transfer Learning
 
-The second file (`TransferLearning.py`) demonstrates image classification using transfer learning with a pre-trained VGG16 model. It follows the following steps:
+TransferLearning.py demonstrates image classification using transfer learning with a pre-trained VGG16 model. It follows the following steps:
 
 1. Imports the necessary libraries, including TensorFlow, Keras, Pandas, Matplotlib, and NumPy.
 
